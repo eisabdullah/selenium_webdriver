@@ -1,0 +1,30 @@
+Test case 1:
+1.open the browser and enter the URL
+2.Enter username, password and click login
+3.Click the hamburger at top left corner
+4.Click logout.
+
+
+Test Case 2:
+1.Open the browser and enter the URL
+2.Enter username and password and click login
+3.Click on saucelab backpack
+4.click on add to cart button
+5.click on cart icon
+6.check whether saucelab backpack is displayed in cart page
+
+Test Case 3:
+1.Open the browser and enter the URL
+2.Enter username and password and click login
+3.Click on sorting dropdown
+4.Select 'price low to high' option
+5.check whether prices are displayed from low to high
+
+Test Case 4:
+1.Open the browser and enter the URL
+2.Enter username and password and click login
+3.click on the hamburger at the top left corner
+4.select About
+5.Scroll down till the end
+6.Click on twitter icon
+7.Check whether twitter login page is displayed
